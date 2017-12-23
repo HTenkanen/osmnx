@@ -131,3 +131,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Ignore PyCharm .idea files
+.idea

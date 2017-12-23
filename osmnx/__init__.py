@@ -9,6 +9,7 @@
 from .buildings import *
 from .elevation import *
 from .core import *
+from .landuse import *
 from .plot import *
 from .projection import *
 from .save_load import *
